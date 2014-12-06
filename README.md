@@ -2,3 +2,4 @@
 
 [隊伍篇](https://github.com/AndyShiue/sakura/blob/master/battle.md)  
 [武器篇](https://github.com/AndyShiue/sakura/blob/master/weapon.md)
+[物語/活動篇](https://github.com/AndyShiue/sakura/blob/master/activity.md)
