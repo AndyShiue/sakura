@@ -290,6 +290,12 @@ SSSR萬用則非常珍貴 極難獲得
 
 要是卡片技能發動率都偏低或全體技卡多推薦使用  
 
+還有一張水橋  
+是之前某次限時任務送的  
+效果在SSR和SSSR代理之間  
+
+![水橋](http://sk.wiki.1758play.com/images/6/65/%E6%B0%B4%E6%A9%8B%E6%84%9B%E6%83%A0.png)
+
 ## 劍極
 
 ![劍極](http://sk.wiki.1758play.com/images/7/7c/%E5%8A%8D%E9%81%93%E4%B9%8B%E6%A5%B5III.png)
