@@ -4,4 +4,5 @@
 [隊伍篇](https://github.com/AndyShiue/sakura/blob/master/battle.md)  
 [武器篇](https://github.com/AndyShiue/sakura/blob/master/weapon.md)  
 [角色卡篇](https://github.com/AndyShiue/sakura/blob/master/character.md)  
+[約會篇](https://github.com/AndyShiue/sakura/blob/master/dating.md)  
 [商店/等價篇](https://github.com/AndyShiue/sakura/blob/master/store.md)  
