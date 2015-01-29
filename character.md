@@ -15,4 +15,4 @@ SSR和SSR比
 
 [角色卡-N篇](https://github.com/AndyShiue/sakura/blob/master/character-n.md)  
 [角色卡-R篇](https://github.com/AndyShiue/sakura/blob/master/character-r.md)  
-[角色卡-SR篇](https://github.com/AndyShiue/sakura/blob/master/character-n.md)  
+[角色卡-SR篇](https://github.com/AndyShiue/sakura/blob/master/character-sr.md)  
