@@ -257,7 +257,7 @@ M4-9-8王卡
 
 ![夢境大小姐](http://sk.wiki.1758play.com/images/b/b5/%E4%B8%AD%E8%8F%AF%E9%A4%90%E5%BB%B3%EF%BC%88%E4%BA%94%EF%BC%89.jpg)
 
-評分：1/10  
+評分：2/10  
 
 當分靈一整個悲劇  
 
