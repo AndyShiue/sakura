@@ -152,7 +152,7 @@ M1-9-8王卡
 
 ## 紫狼
 
-![紫狼](http://sk.wiki.1758play.com/%E6%AA%94%E6%A1%88:%E7%B4%AB%E7%8B%BC%EF%BC%8E%E5%BD%B1%E7%89%99%EF%BC%88%E4%BA%94%EF%BC%89.jpg)
+![紫狼](http://sk.wiki.1758play.com/images/9/92/%E7%B4%AB%E7%8B%BC%EF%BC%8E%E5%BD%B1%E7%89%99%EF%BC%88%E4%BA%94%EF%BC%89.jpg)
 
 評分：3/10  
 
